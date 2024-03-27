@@ -1,4 +1,4 @@
-### Olá! Eu sou o Igor Lyra💥
+## Olá! Eu sou o **Igor Lyra**💥
 
 <div align="left">
   <a href="https://github.com/IgorLyra">
